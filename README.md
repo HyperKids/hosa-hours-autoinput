@@ -30,37 +30,36 @@ all items here will be input as "HOSA Student Volunteering" as the description, 
 
 1. Put the corresponding number of hours per date into column E
 
-10) In the Command Prompt, execute "node hosaauto1.js"
+1. In the Command Prompt, execute "node hosaauto1.js"
 
-11) It should spit out a ton of data in brackets. Leave the input there, you'll need it in a sec.
+1. It should spit out a ton of data in brackets. Leave the input there, you'll need it in a sec.
 
-12) Log into your HOSA Barbara James account at [this link](https://apps.hosa.org/hosaconf/member-activity/action/MemberActivity.action?login=)
+1. Log into your HOSA Barbara James account at [this link](https://apps.hosa.org/hosaconf/member-activity/action/MemberActivity.action?login=)
 
-13) Press F12 (open developer console)
+1. Press F12 (open developer console)
    1. if that doesn't work, try CMD+SHIFT+C and a ton of other combinations, whatever you can think of... or google it
 
-14) Copy and paste the code from _webcode.txt into the web console and hit enter
+1. Copy and paste the code from _webcode.txt into the web console and hit enter
 
-15) In the web console, type "var data = "
+1. In the web console, type "var data = "
 
-16) Go back to the command prompt and copy the data starting with "[" and ending at "]" (highlight with left mouse button, copy by clicking right mouse button)
+1. Go back to the command prompt and copy the data starting with "[" and ending at "]" (highlight with left mouse button, copy by clicking right mouse button)
 
-17) Paste the data into the web console after the = sign
+1. Paste the data into the web console after the = sign
 
-18) Press enter
+1. Press enter
 
-19) Type input(data)
+1. Type input(data)
 
-20) Press enter
+1. Press enter
 
-21) Give it a minute or so, then reload the page
-
-22) Voila!
+1. Give it a minute or so, then reload the page
+1. Voila!
 
 
 ## Troubleshooting
-*) if you're doing this and it's not working, delete "credentials.json"
-*) contact me if you have my personal lines of contact
+1. if you're doing this and it's not working, delete "credentials.json"
+1. contact me if you have my personal lines of contact
 
 -Isaac Kim, Stockdale HOSA president 2018-19
 
