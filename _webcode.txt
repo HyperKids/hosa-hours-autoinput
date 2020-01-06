@@ -1,0 +1,11 @@
+function input(data) {
+    for(i=0;i<data.length;i++) {
+        $.ajax({
+            url: App.url('/member-activity/resources/activity?input='),
+            dataType: 'json',
+            type: 'post',
+            contentType: 'application/json',
+            data: JSON.stringify(data[i]),
+        })
+    }
+};
