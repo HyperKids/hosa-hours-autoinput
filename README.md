@@ -16,6 +16,8 @@ all items here will be input as "HOSA Student Volunteering" as the description, 
 1. Open Command Prompt (Windows) or Terminal (OS X) and navigate to the hosa-hours-autoinput-master folder you downloaded and extracted earlier
    1. Ensure you are in the same directory as the hosaauto1.js file. To change directories, type in "cd " followed by the directory it's stored in. For example, "cd C:\Users\HOSA\Desktop\hosa-bj-auto" would go to the hosa-bj-auto folder on the desktop.
 
+1. Once you're in the right directory, type "npm i googleapis@27"
+
 1. In the Command Prompt (or Terminal), type "node hosaauto1.js"
 
 1. Follow the directions as presented until it spits out an error and quits
